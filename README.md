@@ -1,6 +1,6 @@
 # DAT Viewer
 
-This app takes a DAT file in the standard eDiscovery Concordance format, strips out the delimiters / control characters and presents in a table.
+This app takes a DAT file in the standard eDisclosure Concordance format, strips out the delimiters / control characters and presents in a table.
 
 Raw in Notepad++
 
